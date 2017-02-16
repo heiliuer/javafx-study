@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001hello/001hello.iml" filepath="$PROJECT_DIR$/001hello/001hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002form/002form.iml" filepath="$PROJECT_DIR$/002form/002form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003css/003css.iml" filepath="$PROJECT_DIR$/003css/003css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004scene_builder_fxml/004scene_builder_fxml.iml" filepath="$PROJECT_DIR$/004scene_builder_fxml/004scene_builder_fxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafx-study.iml" filepath="$PROJECT_DIR$/javafx-study.iml" />
+    </modules>
+  </component>
+</project>
